@@ -1,4 +1,4 @@
-# Data Science || Course Pre-Work
+# Program Pre-Work
 
 Welcome! Congratulations on your acceptance to GreyAtom's Data Science Program. We hope you are really excited!! We want you to get ready for the program and have a smooth experience.
 
@@ -82,12 +82,21 @@ If you are well versed with the basics of linear algebra and statistics you can 
 
 ## Programming
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (An absolute essential for non programmers)
+* [Practice Examples in Python](https://www.programiz.com/python-programming/examples)
 <!-- * [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers -->
 
 ## Machine Learning
 * [A Friendly Introduction to Machine Learning  - 30 Minutes](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=1232s)
 <!-- * [Introduction to Machine Learning - Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) -->
 * [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library - 15 Minutes](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
+
+## Additional Resources (optional)
+We recommend you to go through the following content
+
+* [Basics of Calculus - Visual Introduction](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Basics of Linear Algebra - Visual Introduction](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [More hands on practice with Python](https://www.learnpython.org/)
+* [Practice exercises in probability](http://web.mef.hr/web/images/pdf/stat_exe.pdf)
 
 
 ## Blogs to Follow
